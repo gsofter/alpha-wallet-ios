@@ -65,7 +65,7 @@
 "settings.biometricsEnabled.label.title" = "Passcode / %@";
 "settings.error.failedToSendEmail" = "Failed to send email. Make sure you have Mail app installed.";
 "settings.network.button.title" = "Network";
-"settings.enabledNetworks.button.title" = "Enabled Networks";
+"settings.enabledNetworks.button.title" = "Select Active Networks";
 "settings.language.button.title" = "Change Language";
 "settings.backupWallet.button.title" = "Back up this Wallet";
 "settings.language.useSystem.title" = "Use System Setting";
@@ -269,7 +269,7 @@
 "a.wallet.contents.issuer.title" = "Issuer";
 "a.wallet.next.button.title" = "Next";
 "a.wallet.no.tokens" = "You don't have any tokens";
-"a.help.navigation.title" = "Help & FAQs";
+"a.help.navigation.title" = "Support";
 "a.help.assetDefinitionOverrides.title" = "TokenScript Overrides";
 "a.console.title" = "Console";
 "a.help.contact.footer.button.title" = "Still need help? Contact Us";
@@ -287,7 +287,7 @@
 "a.wallet.address.scan.instructions" = "Scan the QR Code or copy the text below:";
 "a.wallet.address.title" = "My %@ Wallet Address";
 "a.settings.navigation.title" = "Settings";
-"a.settings.contents.myWalletAddress" = "My Wallet Address";
+"a.settings.contents.myWalletAddress" = "Show My Wallet Address";
 "a.settings.contents.clearDappBrowserCache" = "Clear Browser cache";
 "a.welcome.navigation.title" = "Welcome";
 "a.welcome.onboarding.1" = "Hold all your Crypto assets in one place";

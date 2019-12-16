@@ -66,6 +66,8 @@ struct Colors {
     static let appRed = UIColor(red: 204, green: 71, blue: 65)
     static let appGrayLabel = UIColor(red: 155, green: 155, blue: 155)
     static let settingsSubtitle = UIColor(red: 141, green: 141, blue: 141)
+    static let settingHeaderBackground = UIColor(red: 251, green: 251, blue: 251)
+    static let settingHeaderText = UIColor(red: 118, green: 118, blue: 118)
 }
 
 struct StyleLayout {
@@ -177,6 +179,8 @@ enum Screen {
             static let title = Colors.appText
             static let subtitle = Colors.appSubtitle
             static let image = Colors.appTint
+            static let sectionHeaderBackground = Colors.settingHeaderBackground
+            static let sectionHeaderText = Colors.settingHeaderText
         }
     }
 
