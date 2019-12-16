@@ -47,3 +47,6 @@ For iOS:
 ## GPL Acknowledgement
 
 The codebase for this app is originally forked from the Trust ethereum wallet and has had many major modifications. Their iOS repo can be seen here: https://github.com/TrustWallet/trust-wallet-ios
+
+## Updated Settings Screen
+![screenshot2](/screenshots/settings_screen.png)
